@@ -1,0 +1,5 @@
+*.priv
+.*.swp
+*.pyc
+proto.py
+dotfiles
